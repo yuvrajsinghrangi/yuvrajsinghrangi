@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Yuvraj Singh Rangi
 
-### 🛡️ Cybersecurity Enthusiast | Penetration Tester | Python Developer
+### 🛡️ Computer Labs & Network Adminstrator| ITI Certified | EHE Certfied | Python Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-rangi-77aa53272/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvrajsinghrangi)
