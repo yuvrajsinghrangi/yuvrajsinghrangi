@@ -18,7 +18,7 @@
 class YuvrajSinghRangi:
     name       = "Yuvraj Singh Rangi"
     location   = "Punjab, India 🇮🇳"
-    role       = "Cybersecurity Enthusiast & Python Developer"
+    role       = "Computer Labs & Network Adminstratorr"
     interests  = ["Penetration Testing", "Digital Security", "Ethical Hacking"]
     languages  = ["Python", "Bash", "SQL"]
     tools      = ["Kali Linux", "Nmap", "Wireshark", "Metasploit", "Burp Suite"]
